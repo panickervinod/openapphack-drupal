@@ -1,2 +1,2 @@
-# openapphack-drupal
+# OpenBCStack-Drupal
 A Drupal Distribution that supports decentralized Identities
